@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD8ABA6B-64BC-4A10-8130-5F68FF5AEB71}"
+	ProjectSection(SolutionItems) = preProject
+		MyKitchen.html = MyKitchen.html
+		myMediaQueryStyle.css = myMediaQueryStyle.css
+		MyStyle.css = MyStyle.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
